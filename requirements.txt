@@ -1,0 +1,9 @@
+streamlit>=1.20.0
+openai>=0.27.0
+pandas
+sentence-transformers
+torch
+scikit-learn
+matplotlib
+python-dotenv
+tqdm

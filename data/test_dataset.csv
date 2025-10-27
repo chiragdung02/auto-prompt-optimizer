@@ -1,0 +1,5 @@
+input,expected_output
+"What is the capital of France?","Paris"
+"Convert 5 miles to kilometers.","8.04672"
+"What is 12 multiplied by 7?","84"
+"Summarize the plot of 'The Little Prince' in one sentence.","A young prince travels from planet to planet learning about human nature and relationships."
